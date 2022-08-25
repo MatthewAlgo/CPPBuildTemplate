@@ -1,7 +1,7 @@
 # Matthew's Build System
 # Inspired From ModernCppStarter
 
-https://github.com/MatthewAlgo/ModernCppStarter
+https://github.com/TheLartians/ModernCppStarter
 
 Supports doc generation, library compilation, integrated package manager (CPM), unit testing.
 Run the bash scripts to execute your code. The structure uses CMake.
